@@ -1,4 +1,4 @@
-import Settings from '../js/settingsFunc.js';
+import Settings from '../js/settings.js';
 
 test('testing User settings', () => {
   const settings = new Settings('theme', 'light');

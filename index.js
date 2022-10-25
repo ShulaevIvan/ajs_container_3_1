@@ -1,1 +1,1 @@
-import './src/js/settingsFunc.js';
+import './src/js/settings.js';
